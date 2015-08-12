@@ -4,7 +4,7 @@ k = 2
 m = 2
 n = 2
 
-hetro_prob = float(3) / float(4)
+hetro_prob = 0.75
 hetro_prob_recs = 0.5
 
 total = k + m + n
